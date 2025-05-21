@@ -9,5 +9,6 @@
 ## Trophies:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Mohamedkaif10&theme=radical)
 
-
+##Streak:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamedkaif10&theme=dark)](https://git.io/streak-stats)
 
